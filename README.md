@@ -1,0 +1,1 @@
+A tipbot for RChain's ERC-20 RHOC tokens.
